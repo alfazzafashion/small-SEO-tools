@@ -1,5 +1,5 @@
 const scraperObject = {
-    url: 'https://facebook.com',
+    url: 'https://www.lazada.co.id',
     async scraper(browser, category){
         let page = await browser.newPage();
         console.log(`Navigating to ${this.url}...`);
