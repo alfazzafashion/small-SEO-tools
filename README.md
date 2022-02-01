@@ -2,6 +2,11 @@
 Webscraper with NodeJS
 ## Quick Start :
 ~~~
+npm i puppeteer --save
+npm install -g npm-check-updates
+ncu -u
+~~~
+~~~
 npm install
 ~~~
 ~~~
