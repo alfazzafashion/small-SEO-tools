@@ -1,5 +1,4 @@
 # crispy-enigma
-Webscraper with NodeJS
 ~~~
 npm install -g npm-check-updates
 ncu -u
