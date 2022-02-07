@@ -1,4 +1,4 @@
-# Wordpress-Backlink-Generator
+# Backlink-Generator (wordpress-post comment)
 
 # TO DO
 
@@ -17,4 +17,3 @@ edit:
 ~~~
 python3 submit.py
 ~~~
-
