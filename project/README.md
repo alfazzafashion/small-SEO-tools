@@ -1,4 +1,5 @@
 # crispy-enigma
+This project aims to be able to robustly grab the content from any page.
 ~~~
 npm install -g npm-check-updates
 ncu -u
