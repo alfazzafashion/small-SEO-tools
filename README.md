@@ -1,2 +1,2 @@
-# Wordpress-Backlink-Generator
+# Backlink-Generator
 Free Web Traffic Visitor
