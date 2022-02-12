@@ -1,5 +1,13 @@
 # smallseo
 
+## to do :
+~~~
+$ git clone https://github.com/alfazzafashion/smallseo.git
+$ smallseo
+$ http-server . 
+~~~
+Open your browser and GO...!!!
+
 ## Source Code:
 
 * [AhmadZxe](https://github.com/AhmadZxe/Blogger-AutoVisitor.git)
@@ -17,12 +25,3 @@
   * [ericmmartin](https://github.com/ericmmartin/simplemodal)
   
   * [prototype](http://www.prototypejs.org/)
-  
-## Usage :
-
-~~~
-$ git clone https://github.com/alfazzafashion/smallseo.git
-$ smallseo
-$ http-server . 
-~~~
-Open your browser and GO...!!!
