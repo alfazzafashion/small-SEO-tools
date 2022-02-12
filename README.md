@@ -1,21 +1,28 @@
-# Source Code:
+# smallseo
 
-*[AhmadZxe](https://github.com/AhmadZxe/Blogger-AutoVisitor.git)
+## Source Code:
 
-*[BarisCanigecgin](https://github.com/BarisCanigecgin/whois-backlink-otomasyonu.git)
+* [AhmadZxe](https://github.com/AhmadZxe/Blogger-AutoVisitor.git)
 
-*[Reborniot](https://github.com/reborniot/whois-backlink-generator.git)
+* [BarisCanigecgin](https://github.com/BarisCanigecgin/whois-backlink-otomasyonu.git)
 
-*[Embedup](https://github.com/embedup/7540000-youtube-video-backlinks-generator.git)
+* [Reborniot](https://github.com/reborniot/whois-backlink-generator.git)
 
-*[Rvalitov](https://github.com/rvalitov/backlink-checker.git)
+* [Embedup](https://github.com/embedup/7540000-youtube-video-backlinks-generator.git)
 
-# Inspired Themes :
+* [Rvalitov](https://github.com/rvalitov/backlink-checker.git)
 
-  *[ericmmartin](https://github.com/ericmmartin/simplemodal)
+## Inspired Themes :
+
+  * [ericmmartin](https://github.com/ericmmartin/simplemodal)
   
-  *[prototype](http://www.prototypejs.org/)
+  * [prototype](http://www.prototypejs.org/)
   
-# Usage :
+## Usage :
 
-	[usage]
+~~~
+$ git clone https://github.com/alfazzafashion/smallseo.git
+$ smallseo
+$ http-server . 
+~~~
+Open your browser and GO...!!!
