@@ -10,6 +10,8 @@ Open your browser and GO...!!!
 
 ## Source Code:
 
+* [DeVoresyah](https://github.com/DeVoresyah/jinxprooo/)
+
 * [AhmadZxe](https://github.com/AhmadZxe/Blogger-AutoVisitor.git)
 
 * [BarisCanigecgin](https://github.com/BarisCanigecgin/whois-backlink-otomasyonu.git)
