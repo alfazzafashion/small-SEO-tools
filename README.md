@@ -1,12 +1,10 @@
 # smallseo
 
-## 🔗 Demo 
-
-## [Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
+## 🔗 Traffic Generator (IP-PV-UV) [Demo](https://jinglinxpro.blogspot.com)
 
 ![screenshot](ss.png)
 
-## [Backlink Generator)](https://yt-backlink.blogspot.com)
+## 🔗 Backlink Generator [Demo](https://yt-backlink.blogspot.com)
 
 ![screenshot](ss1.png)
 
@@ -19,6 +17,13 @@ $ smallseo
 $ http-server . 
 ~~~
 Open your browser and GO...!!!
+
+## Result
+![screenshot](screenshot1.png)
+![screenshot](screenshot2.png)
+![screenshot](screenshot3.png)
+![screenshot](screenshot4.png)
+![screenshot](screenshot5.png)
 
 ## Source Code:
 
