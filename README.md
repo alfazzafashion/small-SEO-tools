@@ -3,10 +3,12 @@
 🔗 Demo 
 
 *[Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
-![screenshot](#screenshot)
+
+![screenshot](#ss1)
 
 *[Backlink Generator)](https://yt-backlink.blogspot.com)
-![screenshot](#screenshot2)
+
+![screenshot](#ss2)
 
 ## to do :
 ~~~
