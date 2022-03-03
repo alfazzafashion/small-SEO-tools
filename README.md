@@ -8,8 +8,6 @@
 
 ![screenshot](ss1.png)
 
-![screenshot](ss2.png)
-
 ## to do :
 ~~~
 $ git clone https://github.com/alfazzafashion/smallseo.git
