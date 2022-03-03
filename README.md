@@ -1,5 +1,13 @@
 # smallseo
 
+🔗 Demo 
+
+*[Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
+![screenshot](#screenshot)
+
+*[Backlink Generator)](https://yt-backlink.blogspot.com)
+![screenshot](#screenshot2)
+
 ## to do :
 ~~~
 $ git clone https://github.com/alfazzafashion/smallseo.git
