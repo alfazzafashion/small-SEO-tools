@@ -1,12 +1,12 @@
 # smallseo
 
-🔗 Demo 
+## 🔗 Demo 
 
-*[Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
+## [Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
 
 ![screenshot](ss.png)
 
-*[Backlink Generator)](https://yt-backlink.blogspot.com)
+## [Backlink Generator)](https://yt-backlink.blogspot.com)
 
 ![screenshot](ss1.png)
 
