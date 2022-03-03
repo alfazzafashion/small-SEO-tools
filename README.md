@@ -2,11 +2,7 @@
 
 ## 🔗 Traffic Generator (IP-PV-UV) [Demo](https://jinglinxpro.blogspot.com)
 
-![screenshot](ss.png)
-
 ## 🔗 Backlink Generator [Demo](https://yt-backlink.blogspot.com)
-
-![screenshot](ss1.png)
 
 ## to do :
 ~~~
@@ -15,9 +11,6 @@ $ smallseo
 $ http-server . 
 ~~~
 Open your browser and GO...!!!
-
-## Result
-![screenshot](screenshot5.png)
 
 ## Source Code:
 
