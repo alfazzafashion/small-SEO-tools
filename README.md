@@ -19,11 +19,7 @@ $ http-server .
 Open your browser and GO...!!!
 
 ## Result
-![screenshot](screenshot1.png)
-![screenshot](screenshot2.png)
-![screenshot](screenshot3.png)
-![screenshot](screenshot4.png)
-![screenshot](screenshot5.png)
+![screenshot](screenshot1.png)![screenshot](screenshot2.png)![screenshot](screenshot3.png)![screenshot](screenshot4.png)![screenshot](screenshot5.png)
 
 ## Source Code:
 
