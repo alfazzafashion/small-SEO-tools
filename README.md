@@ -4,7 +4,7 @@
 
 *[Traffic Generator (IP-PV-UV)](https://jinglinxpro.blogspot.com)
 
-![screenshot](ss3.png)
+![screenshot](ss.png)
 
 *[Backlink Generator)](https://yt-backlink.blogspot.com)
 
